@@ -82,6 +82,7 @@ body * {
 
 .light #switch button {
   animation: slide-in 0.2s forwards;
+  --switch-bg-url: url(./assets/sun.svg);
 }
 
 #switch button:hover {
